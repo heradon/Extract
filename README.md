@@ -19,4 +19,4 @@ How to use:
 --------
 
 Using command `extract` in terminal:
-  '$ extract <archive_name.extenction>`
+  '$ extract <archive_name>.<extenction>`
