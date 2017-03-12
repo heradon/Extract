@@ -15,7 +15,7 @@ Copy&Paste function into file: '~/.bashrc'
 Copy&Paste function into file: '~/.zshrc'
 
 --------
-How to user:
+How to use:
 --------
 
 Using command `extract` in terminal:
