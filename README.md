@@ -5,7 +5,7 @@ Script to extract: .zip, .rar, .bz2, .gz, .tar,. tbz2, .tgz, .Z, .7z, .xz, .exe,
 This script uses the free unpackers to support many older formats shows upper.
 
 --------
-How to insall in unix:
+How to install in unix:
 --------
 
 *In shell:
